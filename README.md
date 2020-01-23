@@ -14,4 +14,12 @@ Data set :
   I have developed CNN model which can classify the image in to six different classes according to the problem statement .
   
   The Plots (as pr the loss and accuricy ) :
+  
+  ![](Figure_1.png)
+  
+  
+  ![](Figure_2.png)
+  
+  
+  You can increase the Accuricy by doing some tunning and using different optimization functions
 
